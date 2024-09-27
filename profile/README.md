@@ -24,22 +24,22 @@ CodeSama is your AI-powered code review assistant, streamlining the process of r
 
 To get started with CodeSama, follow these steps:
 
-1. **Sign up for a CodeSama account** at [https://ellipsis.dev](https://ellipsis.dev).
+1. **Sign up for a CodeSama account** at [https://CodeSama.dev](https://CodeSama.dev).
 2. **Connect your GitHub account** to enable CodeSama to review your code and collaborate on pull requests.
 3. **Configure CodeSama's settings** to match your team's preferences and style guide.
 4. **Start enjoying the benefits of AI-powered code reviews and bug fixes** in your GitHub workflow.
 
 ## Documentation
 
-For more detailed information on using CodeSama, please refer to our [documentation](https://docs.ellipsis.dev).
+For more detailed information on using CodeSama, please refer to our [documentation](https://docs.CodeSama.dev).
 
 ## Support
 
-If you have any questions or encounter any issues, please don't hesitate to reach out to our support team at [support@ellipsis.dev](mailto:support@ellipsis.dev).
+If you have any questions or encounter any issues, please don't hesitate to reach out to our support team at [support@CodeSama.dev](mailto:support@CodeSama.dev).
 
 ## Join the Community
 
-Connect with other CodeSama users and share your experiences by joining our [community forum](https://community.ellipsis.dev).
+Connect with other CodeSama users and share your experiences by joining our [community forum](https://community.CodeSama.dev).
 
 ## License
 
