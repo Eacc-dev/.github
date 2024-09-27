@@ -31,15 +31,15 @@ To get started with CodeSama, follow these steps:
 
 ## Documentation
 
-For more detailed information on using CodeSama, please refer to our [documentation](https://docs.CodeSama.dev).
+For more detailed information on using CodeSama, please refer to our [documentation](https://docscodesama.com).
 
 ## Support
 
-If you have any questions or encounter any issues, please don't hesitate to reach out to our support team at [support@CodeSama.dev](mailto:support@CodeSama.dev).
+If you have any questions or encounter any issues, please don't hesitate to reach out to our support team at [support@CodeSama.dev](mailto:team@codesuma.com).
 
 ## Join the Community
 
-Connect with other CodeSama users and share your experiences by joining our [community forum](https://community.CodeSama.dev).
+Connect with other CodeSama users and share your experiences by joining our [community forum](https://community.codesama.com).
 
 ## License
 
