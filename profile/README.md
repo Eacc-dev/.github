@@ -24,7 +24,7 @@ CodeSama is your AI-powered code review assistant, streamlining the process of r
 
 To get started with CodeSama, follow these steps:
 
-1. **Sign up for a CodeSama account** at [https://CodeSama.dev](https://CodeSama.dev).
+1. **Sign up for a CodeSama account** at [https://app.codesama.com](https://app.codesama.com).
 2. **Connect your GitHub account** to enable CodeSama to review your code and collaborate on pull requests.
 3. **Configure CodeSama's settings** to match your team's preferences and style guide.
 4. **Start enjoying the benefits of AI-powered code reviews and bug fixes** in your GitHub workflow.
